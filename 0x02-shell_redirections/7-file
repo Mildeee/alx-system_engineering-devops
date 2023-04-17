@@ -1,2 +1,2 @@
 #!/bin/bash
-touch '\*\\''"Best School"\''\\*$\?\*\*\*\*\*:)'
+find . -type d -not -name '.' | wc - |
